@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="leo04/leo04.vcxproj" Id="e1d67e10-9d07-4b25-bd62-8c96dd26a436" />
+</Solution>

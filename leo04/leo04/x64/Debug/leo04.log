@@ -1,0 +1,16 @@
+﻿  complex.cpp
+C:\Users\bagju\OneDrive\문서\data-structure-lab\leo04\leo04\Complex.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'complex.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\bagju\OneDrive\문서\data-structure-lab\leo04\leo04\Complex.h(14,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  (소스 파일 'complex.cpp'을(를) 컴파일하는 중)
+      C:\Users\bagju\OneDrive\문서\data-structure-lab\leo04\leo04\Complex.h(14,11):
+      서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\bagju\OneDrive\문서\data-structure-lab\leo04\leo04\Complex.h(14,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  (소스 파일 'complex.cpp'을(를) 컴파일하는 중)
+      C:\Users\bagju\OneDrive\문서\data-structure-lab\leo04\leo04\Complex.h(14,11):
+      서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\bagju\OneDrive\문서\data-structure-lab\leo04\leo04\complex.cpp(2,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  leo04.vcxproj -> C:\Users\bagju\OneDrive\문서\data-structure-lab\leo04\x64\Debug\leo04.exe
